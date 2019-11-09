@@ -1,0 +1,134 @@
+--
+-- Estrutura da tabela `categories`
+--
+
+CREATE TABLE IF NOT EXISTS `categories` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `description` varchar(40) COLLATE utf8_unicode_ci NOT NULL,
+  `created_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+-- --------------------------------------------------------
+
+--
+-- Estrutura da tabela `categoriesproducts`
+--
+
+CREATE TABLE IF NOT EXISTS `categoriesproducts` (
+  `idcategory` int(11) NOT NULL,
+  `idproduct` int(11) NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+-- --------------------------------------------------------
+
+
+--
+-- Estrutura da tabela `files`
+--
+
+CREATE TABLE IF NOT EXISTS `files` (
+  `id` int(11) UNSIGNED NOT NULL AUTO_INCREMENT,
+  `idvinculo` int(11) NOT NULL,
+  `model` varchar(20) NOT NULL,
+  `deleteType` varchar(10) NOT NULL,
+  `deleteUrl` varchar(100) NOT NULL,
+  `name` varchar(255) DEFAULT NULL,
+  `size` int(11) DEFAULT NULL,
+  `type` varchar(255) DEFAULT NULL,
+  `thumbnailUrl` varchar(255) DEFAULT NULL,
+  `title` varchar(255) DEFAULT NULL,
+  `description` text,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+-- --------------------------------------------------------
+
+--
+-- Estrutura da tabela `menus`
+--
+
+CREATE TABLE IF NOT EXISTS `menus` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `description` varchar(50) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `link` varchar(100) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `icon` varchar(100) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `type` enum('S','F') COLLATE utf8_unicode_ci NOT NULL DEFAULT 'S',
+  `created_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+-- --------------------------------------------------------
+
+--
+-- Estrutura da tabela `persons`
+--
+
+CREATE TABLE IF NOT EXISTS `persons` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `person` varchar(100) COLLATE utf8_unicode_ci NOT NULL,
+  `office` varchar(100) COLLATE utf8_unicode_ci NOT NULL,
+  `email` varchar(100) COLLATE utf8_unicode_ci NOT NULL,
+  `nrphone` varchar(15) COLLATE utf8_unicode_ci NOT NULL,
+  `created_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+-- --------------------------------------------------------
+
+--
+-- Estrutura da tabela `products`
+--
+
+CREATE TABLE IF NOT EXISTS `products` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `description` varchar(100) COLLATE utf8_unicode_ci NOT NULL,
+  `observations` text COLLATE utf8_unicode_ci NOT NULL,
+  `photo` varchar(100) COLLATE utf8_unicode_ci NOT NULL,
+  `active` int(11) NOT NULL,
+  `created_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+-- --------------------------------------------------------
+
+--
+-- Estrutura da tabela `users`
+--
+
+CREATE TABLE IF NOT EXISTS `users` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `idperson` int(11) NOT NULL,
+  `login` varchar(100) COLLATE utf8_unicode_ci NOT NULL,
+  `password` varchar(255) COLLATE utf8_unicode_ci NOT NULL,
+  `inadmin` int(1) NOT NULL,
+  `inserted_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+-- --------------------------------------------------------
+
+--
+-- Estrutura da tabela `usersmenus`
+--
+
+CREATE TABLE IF NOT EXISTS `usersmenus` (
+  `iduser` int(11) NOT NULL,
+  `idmenu` int(11) NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+-- --------------------------------------------------------
+
+--
+-- Estrutura da tabela `users_passwords_recoveries`
+--
+
+CREATE TABLE IF NOT EXISTS `users_passwords_recoveries` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `iduser` int(11) NOT NULL,
+  `ip` varchar(20) COLLATE utf8_unicode_ci NOT NULL,
+  `dtrecovery` datetime NOT NULL,
+  `created_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+COMMIT;

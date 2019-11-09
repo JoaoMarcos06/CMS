@@ -1,0 +1,1669 @@
+[04-Oct-2019 20:04:45 UTC] PHP Warning:  require_once(/home1/inovar52/public_html/INOVACMS/vendor/composer/autoload_real.php): failed to open stream: No such file or directory in /home1/inovar52/public_html/INOVACMS/vendor/autoload.php on line 5
+[04-Oct-2019 20:04:45 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/inovar52/public_html/INOVACMS/vendor/composer/autoload_real.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/inovar52/public_html/INOVACMS/vendor/autoload.php on line 5
+[04-Oct-2019 20:26:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(17): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[04-Oct-2019 20:27:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(17): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[04-Oct-2019 20:28:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(17): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[04-Oct-2019 20:30:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(17): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[04-Oct-2019 20:57:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(17): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[04-Oct-2019 20:59:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(16): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[04-Oct-2019 21:00:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(19): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[04-Oct-2019 21:04:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(19): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[04-Oct-2019 21:05:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[04-Oct-2019 21:06:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[04-Oct-2019 21:07:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[04-Oct-2019 21:07:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[04-Oct-2019 21:07:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[04-Oct-2019 21:09:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[04-Oct-2019 21:10:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/index.php:21
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(30): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/index.php on line 21
+[04-Oct-2019 21:12:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/index.php:21
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(30): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/index.php on line 21
+[04-Oct-2019 21:12:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[04-Oct-2019 21:12:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[04-Oct-2019 21:14:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[04-Oct-2019 21:14:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[04-Oct-2019 21:17:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[04-Oct-2019 21:19:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[04-Oct-2019 21:21:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[04-Oct-2019 21:30:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[04-Oct-2019 21:34:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[04-Oct-2019 21:44:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[04-Oct-2019 21:45:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[04-Oct-2019 21:47:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[04-Oct-2019 21:49:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[05-Oct-2019 15:23:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[05-Oct-2019 15:25:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[05-Oct-2019 15:28:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[05-Oct-2019 15:29:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[05-Oct-2019 15:31:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[05-Oct-2019 15:31:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[05-Oct-2019 15:32:06 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[05-Oct-2019 15:32:52 UTC] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[05-Oct-2019 15:33:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[05-Oct-2019 15:33:45 UTC] PHP Parse error:  syntax error, unexpected '/', expecting identifier (T_STRING) or function (T_FUNCTION) or const (T_CONST) or \\ (T_NS_SEPARATOR) in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 2
+[05-Oct-2019 15:34:00 UTC] PHP Parse error:  syntax error, unexpected '/', expecting identifier (T_STRING) or function (T_FUNCTION) or const (T_CONST) or \\ (T_NS_SEPARATOR) in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 2
+[05-Oct-2019 15:34:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[05-Oct-2019 15:35:05 UTC] PHP Parse error:  syntax error, unexpected ';', expecting identifier (T_STRING) in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 3
+[05-Oct-2019 15:35:21 UTC] PHP Parse error:  syntax error, unexpected ';', expecting identifier (T_STRING) in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 3
+[05-Oct-2019 15:35:30 UTC] PHP Parse error:  syntax error, unexpected ';', expecting identifier (T_STRING) in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 3
+[05-Oct-2019 15:35:34 UTC] PHP Parse error:  syntax error, unexpected ';', expecting identifier (T_STRING) in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 3
+[05-Oct-2019 15:36:02 UTC] PHP Parse error:  syntax error, unexpected ';', expecting identifier (T_STRING) in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 3
+[05-Oct-2019 15:36:52 UTC] PHP Fatal error:  Uncaught Error: Undefined constant 'Hcode\Model' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php:3
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/vendor/composer/ClassLoader.php(444): include()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/inovar52...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Hcode\\Model\\Use...')
+#3 /home1/inovar52/public_html/INOVACMS/routes/routes.php(7): spl_autoload_call('Hcode\\Model\\Use...')
+#4 [internal function]: {closure}()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#8 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Meth in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 3
+[05-Oct-2019 15:41:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[05-Oct-2019 15:41:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[05-Oct-2019 15:42:07 UTC] PHP Fatal error:  Uncaught Error: Undefined constant 'Hcode\Model\User' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php:3
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/vendor/composer/ClassLoader.php(444): include()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/inovar52...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Hcode\\Model\\Use...')
+#3 /home1/inovar52/public_html/INOVACMS/routes/routes.php(7): spl_autoload_call('Hcode\\Model\\Use...')
+#4 [internal function]: {closure}()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#8 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 3
+[05-Oct-2019 15:42:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant 'Hcode\Model\User' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php:3
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/vendor/composer/ClassLoader.php(444): include()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/inovar52...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Hcode\\Model\\Use...')
+#3 /home1/inovar52/public_html/INOVACMS/routes/routes.php(7): spl_autoload_call('Hcode\\Model\\Use...')
+#4 [internal function]: {closure}()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#8 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 3
+[05-Oct-2019 15:44:11 UTC] PHP Fatal error:  Uncaught Error: Undefined constant 'Hcode\Models' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Models/User.php:3
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/vendor/composer/ClassLoader.php(444): include()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/inovar52...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Hcode\\Models\\Us...')
+#3 /home1/inovar52/public_html/INOVACMS/routes/routes.php(7): spl_autoload_call('Hcode\\Models\\Us...')
+#4 [internal function]: {closure}()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#8 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Me in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Models/User.php on line 3
+[05-Oct-2019 15:44:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant 'Hcode\Models' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Models/User.php:3
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/vendor/composer/ClassLoader.php(444): include()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/inovar52...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Hcode\\Models\\Us...')
+#3 /home1/inovar52/public_html/INOVACMS/routes/routes.php(7): spl_autoload_call('Hcode\\Models\\Us...')
+#4 [internal function]: {closure}()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#8 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Me in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Models/User.php on line 3
+[05-Oct-2019 15:45:09 UTC] PHP Fatal error:  Uncaught Error: Undefined constant 'Hcode\Models' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Models/User.php:3
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/vendor/composer/ClassLoader.php(444): include()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home1/inovar52...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Hcode\\Models\\Us...')
+#3 /home1/inovar52/public_html/INOVACMS/routes/routes.php(7): spl_autoload_call('Hcode\\Models\\Us...')
+#4 [internal function]: {closure}()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#8 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Me in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Models/User.php on line 3
+[05-Oct-2019 15:46:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Models\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[05-Oct-2019 15:46:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Models\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[05-Oct-2019 15:46:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Models\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:7
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 7
+[05-Oct-2019 15:48:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Models\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:8
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 8
+[05-Oct-2019 15:49:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Models\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:8
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 8
+[05-Oct-2019 15:50:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Models\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:8
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 8
+[05-Oct-2019 15:52:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Models\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:8
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 8
+[05-Oct-2019 15:53:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Models\User\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:8
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 8
+[05-Oct-2019 15:53:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Models\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:8
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 8
+[05-Oct-2019 15:55:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Models\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:8
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 8
+[05-Oct-2019 15:55:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Models\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:8
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 8
+[05-Oct-2019 15:56:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:8
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 8
+[05-Oct-2019 15:57:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:8
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 8
+[05-Oct-2019 15:59:30 UTC] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home1/inovar52/public_html/INOVACMS/index.php on line 3
+[05-Oct-2019 15:59:30 UTC] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home1/inovar52/public_html/INOVACMS/index.php on line 3
+[05-Oct-2019 16:02:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:8
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 8
+[05-Oct-2019 16:04:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:8
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 8
+[05-Oct-2019 16:05:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Page' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:10
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 10
+[05-Oct-2019 16:06:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:8
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 8
+[05-Oct-2019 16:07:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:8
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 8
+[05-Oct-2019 16:07:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:8
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 8
+[05-Oct-2019 16:08:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:8
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 8
+[05-Oct-2019 16:51:52 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 8
+[05-Oct-2019 16:54:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:8
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 8
+[05-Oct-2019 17:41:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:57
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 57
+[05-Oct-2019 17:59:43 UTC] PHP Parse error:  syntax error, unexpected '":id"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 158
+[05-Oct-2019 18:26:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Hcode\Model\password_has() in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php:31
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/routes/routes.php(29): Hcode\Model\User::login(Object(Hcode\Model\User), 'Fth;jP{{sx:FP1Y...')
+#1 [internal function]: {closure}()
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 31
+[05-Oct-2019 21:15:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:29
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 29
+[11-Oct-2019 04:30:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\Product' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:232
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 232
+[11-Oct-2019 04:34:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Hcode\Page::setTple() in /home1/inovar52/public_html/INOVACMS/routes/routes.php:252
+Stack trace:
+#0 [internal function]: {closure}('1')
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(21): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 252
+[11-Oct-2019 04:35:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/inovar52/public_html/INOVACMS/views-cache/products/products-update.91831955f05695cbc4312926df9120cc.rtpl.php on line 47
+[11-Oct-2019 04:38:36 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type Hcode\Model\Product as array in /home1/inovar52/public_html/INOVACMS/views-cache/products/products-update.91831955f05695cbc4312926df9120cc.rtpl.php:11
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/vendor/rain/raintpl/library/Rain/Tpl.php(79): require()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php(41): Rain\Tpl->draw('/products/produ...', false)
+#2 /home1/inovar52/public_html/INOVACMS/routes/routes.php(253): Hcode\Page->setTPL('/products/produ...', Array)
+#3 [internal function]: {closure}('1')
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php( in /home1/inovar52/public_html/INOVACMS/views-cache/products/products-update.91831955f05695cbc4312926df9120cc.rtpl.php on line 11
+[11-Oct-2019 04:38:42 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type Hcode\Model\Product as array in /home1/inovar52/public_html/INOVACMS/views-cache/products/products-update.91831955f05695cbc4312926df9120cc.rtpl.php:11
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/vendor/rain/raintpl/library/Rain/Tpl.php(79): require()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php(41): Rain\Tpl->draw('/products/produ...', false)
+#2 /home1/inovar52/public_html/INOVACMS/routes/routes.php(253): Hcode\Page->setTPL('/products/produ...', Array)
+#3 [internal function]: {closure}('1')
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php( in /home1/inovar52/public_html/INOVACMS/views-cache/products/products-update.91831955f05695cbc4312926df9120cc.rtpl.php on line 11
+[11-Oct-2019 04:38:58 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type Hcode\Model\Product as array in /home1/inovar52/public_html/INOVACMS/views-cache/products/products-update.91831955f05695cbc4312926df9120cc.rtpl.php:11
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/vendor/rain/raintpl/library/Rain/Tpl.php(79): require()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php(41): Rain\Tpl->draw('/products/produ...', false)
+#2 /home1/inovar52/public_html/INOVACMS/routes/routes.php(253): Hcode\Page->setTPL('/products/produ...', Array)
+#3 [internal function]: {closure}('1')
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php( in /home1/inovar52/public_html/INOVACMS/views-cache/products/products-update.91831955f05695cbc4312926df9120cc.rtpl.php on line 11
+[11-Oct-2019 04:41:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/inovar52/public_html/INOVACMS/views-cache/products/products-update.91831955f05695cbc4312926df9120cc.rtpl.php on line 39
+[11-Oct-2019 04:41:33 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/inovar52/public_html/INOVACMS/views-cache/products/products-update.91831955f05695cbc4312926df9120cc.rtpl.php on line 39
+[11-Oct-2019 04:42:16 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/inovar52/public_html/INOVACMS/views-cache/products/products-update.91831955f05695cbc4312926df9120cc.rtpl.php on line 39
+[11-Oct-2019 04:51:07 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/inovar52/public_html/INOVACMS/views-cache/users/users-update.91831955f05695cbc4312926df9120cc.rtpl.php on line 47
+[11-Oct-2019 04:51:12 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/inovar52/public_html/INOVACMS/views-cache/users/users-update.91831955f05695cbc4312926df9120cc.rtpl.php on line 47
+[11-Oct-2019 04:51:25 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/inovar52/public_html/INOVACMS/views-cache/users/users-update.91831955f05695cbc4312926df9120cc.rtpl.php on line 47
+[13-Oct-2019 17:27:44 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 342
+[13-Oct-2019 17:27:55 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 342
+[13-Oct-2019 17:27:58 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/inovar52/public_html/INOVACMS/views-cache/portfolio/portfolio-update.91831955f05695cbc4312926df9120cc.rtpl.php on line 47
+[13-Oct-2019 17:28:10 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/inovar52/public_html/INOVACMS/views-cache/portfolio/portfolio-update.91831955f05695cbc4312926df9120cc.rtpl.php on line 47
+[13-Oct-2019 17:28:13 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/inovar52/public_html/INOVACMS/views-cache/portfolio/portfolio-update.91831955f05695cbc4312926df9120cc.rtpl.php on line 47
+[13-Oct-2019 17:41:47 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 346
+[13-Oct-2019 17:41:49 UTC] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 346
+[13-Oct-2019 18:24:38 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/inovar52/public_html/INOVACMS/views-cache/depositions/depositions-update.91831955f05695cbc4312926df9120cc.rtpl.php on line 47
+[15-Oct-2019 02:13:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Contact' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:467
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(22): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 467
+[15-Oct-2019 02:14:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\Contact' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:468
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(22): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 468
+[15-Oct-2019 02:14:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\Contact' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:468
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(22): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 468
+[15-Oct-2019 02:14:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\Contact' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:468
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(22): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 468
+[15-Oct-2019 02:14:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\Contact' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:468
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(22): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 468
+[15-Oct-2019 02:15:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\Contact' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:468
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(22): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 468
+[15-Oct-2019 02:15:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\Contact' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:468
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(22): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 468
+[15-Oct-2019 02:56:28 UTC] PHP Parse error:  syntax error, unexpected '$date' (T_VARIABLE), expecting ',' or ')' in /home1/inovar52/public_html/INOVACMS/helpers/functions.php on line 12
+[15-Oct-2019 02:56:45 UTC] PHP Parse error:  syntax error, unexpected '$date' (T_VARIABLE), expecting ',' or ')' in /home1/inovar52/public_html/INOVACMS/helpers/functions.php on line 12
+[15-Oct-2019 02:56:57 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to formatDate() must be an instance of date, string given, called in /home1/inovar52/public_html/INOVACMS/views-cache/contact/read-mail.91831955f05695cbc4312926df9120cc.rtpl.php on line 31 and defined in /home1/inovar52/public_html/INOVACMS/helpers/functions.php:11
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/views-cache/contact/read-mail.91831955f05695cbc4312926df9120cc.rtpl.php(31): formatDate('2019-10-13 22:2...')
+#1 /home1/inovar52/public_html/INOVACMS/vendor/rain/raintpl/library/Rain/Tpl.php(79): require('/home1/inovar52...')
+#2 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php(41): Rain\Tpl->draw('/contact/read-m...', false)
+#3 /home1/inovar52/public_html/INOVACMS/routes/routes.php(488): Hcode\Page->setTPL('/contact/read-m...', Array)
+#4 [internal function]: {closure}('1')
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#6 /home1/inovar52/public_html/INOVAC in /home1/inovar52/public_html/INOVACMS/helpers/functions.php on line 11
+[15-Oct-2019 02:58:37 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home1/inovar52/public_html/INOVACMS/helpers/functions.php on line 13
+[15-Oct-2019 03:01:17 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home1/inovar52/public_html/INOVACMS/helpers/functions.php on line 13
+[15-Oct-2019 03:01:41 UTC] PHP Parse error:  syntax error, unexpected '$dateTime' (T_VARIABLE), expecting ',' or ')' in /home1/inovar52/public_html/INOVACMS/helpers/functions.php on line 13
+[15-Oct-2019 03:01:44 UTC] PHP Parse error:  syntax error, unexpected '$dateTime' (T_VARIABLE), expecting ',' or ')' in /home1/inovar52/public_html/INOVACMS/helpers/functions.php on line 13
+[15-Oct-2019 03:02:47 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home1/inovar52/public_html/INOVACMS/helpers/functions.php on line 13
+[15-Oct-2019 03:02:49 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home1/inovar52/public_html/INOVACMS/helpers/functions.php on line 13
+[16-Oct-2019 01:35:54 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 116
+[16-Oct-2019 01:59:52 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function assign() on null in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php:50
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php(28): Hcode\Page->setData(Array)
+#1 /home1/inovar52/public_html/INOVACMS/routes/routes.php(15): Hcode\Page->__construct(Array)
+#2 [internal function]: {closure}()
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#8 /home1/in in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php on line 50
+[16-Oct-2019 01:59:55 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function assign() on null in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php:50
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php(28): Hcode\Page->setData(Array)
+#1 /home1/inovar52/public_html/INOVACMS/routes/routes.php(15): Hcode\Page->__construct(Array)
+#2 [internal function]: {closure}()
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#8 /home1/in in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php on line 50
+[16-Oct-2019 02:00:43 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function assign() on null in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php:50
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php(28): Hcode\Page->setData(Array)
+#1 /home1/inovar52/public_html/INOVACMS/routes/routes.php(15): Hcode\Page->__construct(Array)
+#2 [internal function]: {closure}()
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#8 /home1/in in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php on line 50
+[16-Oct-2019 02:02:41 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function assign() on null in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php:49
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php(27): Hcode\Page->setData(Array)
+#1 /home1/inovar52/public_html/INOVACMS/routes/routes.php(15): Hcode\Page->__construct(Array)
+#2 [internal function]: {closure}()
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#8 /home1/in in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php on line 49
+[16-Oct-2019 02:02:47 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function assign() on null in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php:49
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php(27): Hcode\Page->setData(Array)
+#1 /home1/inovar52/public_html/INOVACMS/routes/routes.php(15): Hcode\Page->__construct(Array)
+#2 [internal function]: {closure}()
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#8 /home1/in in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php on line 49
+[16-Oct-2019 23:40:28 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$page' (T_VARIABLE) in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 17
+[16-Oct-2019 23:51:29 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'header' (T_STRING) in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 67
+[17-Oct-2019 00:59:24 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 193
+[17-Oct-2019 01:08:50 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ',' or ';' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 15
+[17-Oct-2019 01:22:17 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 174
+[17-Oct-2019 01:22:51 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 215
+[17-Oct-2019 23:24:52 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Swift_Mailer::send(), 0 passed in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 180 and at least 1 expected in /home1/inovar52/public_html/INOVACMS/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php:59
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/routes/routes.php(180): Swift_Mailer->send()
+#1 [internal function]: {closure}()
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverr in /home1/inovar52/public_html/INOVACMS/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php on line 59
+[17-Oct-2019 23:59:35 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php:35
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/routes/routes.php(148): Hcode\Page->__construct(Array)
+#1 [internal function]: {closure}()
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#8 /home1/in in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php on line 35
+[18-Oct-2019 00:10:32 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'openssl_cipher_iv_length' (T_STRING), expecting '=' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 14
+[18-Oct-2019 00:10:53 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php:35
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/routes/routes.php(148): Hcode\Page->__construct(Array)
+#1 [internal function]: {closure}()
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#8 /home1/in in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php on line 35
+[18-Oct-2019 00:10:56 America/Sao_Paulo] PHP Fatal error:  Constant expression contains invalid operations in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 14
+[18-Oct-2019 00:11:26 America/Sao_Paulo] PHP Fatal error:  Constant expression contains invalid operations in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 14
+[18-Oct-2019 00:11:32 America/Sao_Paulo] PHP Fatal error:  Constant expression contains invalid operations in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 14
+[18-Oct-2019 00:11:53 America/Sao_Paulo] PHP Fatal error:  Constant expression contains invalid operations in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 14
+[18-Oct-2019 01:08:00 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ')' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 236
+[18-Oct-2019 01:58:52 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php:35
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/routes/routes.php(148): Hcode\Page->__construct(Array)
+#1 [internal function]: {closure}()
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#8 /home1/in in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php on line 35
+[18-Oct-2019 01:58:54 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$iv' (T_VARIABLE), expecting ',' or ')' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 211
+[18-Oct-2019 02:06:58 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php:35
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/routes/routes.php(191): Hcode\Page->__construct(Array)
+#1 [internal function]: {closure}()
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#8 /home1/in in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php on line 35
+[18-Oct-2019 02:08:06 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 212
+[18-Oct-2019 02:11:23 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ';' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 213
+[18-Oct-2019 02:12:53 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$ivsize' (T_VARIABLE) in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 230
+[18-Oct-2019 02:15:50 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '"-"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 213
+[20-Oct-2019 16:11:18 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:25
+Stack trace:
+#0 [internal function]: {closure}()
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(25): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 25
+[20-Oct-2019 18:39:15 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php:283
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model.php(34): Hcode\Model\User::setPassword('$2y$12$HQ/vHWav...')
+#1 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php(37): Hcode\Model->setData(Array)
+#2 /home1/inovar52/public_html/INOVACMS/routes/routes.php(37): Hcode\Model\User::login(Object(Hcode\Model\User), 'Fth;jP{{sx:FP1Y...')
+#3 [internal function]: {closure}()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride. in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 283
+[20-Oct-2019 18:39:20 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php:283
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model.php(34): Hcode\Model\User::setPassword('$2y$12$HQ/vHWav...')
+#1 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php(37): Hcode\Model->setData(Array)
+#2 /home1/inovar52/public_html/INOVACMS/routes/routes.php(37): Hcode\Model\User::login(Object(Hcode\Model\User), 'Fth;jP{{sx:FP1Y...')
+#3 [internal function]: {closure}()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride. in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 283
+[20-Oct-2019 18:39:38 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php:283
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model.php(34): Hcode\Model\User::setPassword('$2y$12$HQ/vHWav...')
+#1 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php(37): Hcode\Model->setData(Array)
+#2 /home1/inovar52/public_html/INOVACMS/routes/routes.php(37): Hcode\Model\User::login(Object(Hcode\Model\User), 'Fth;jP{{sx:FP1Y...')
+#3 [internal function]: {closure}()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride. in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 283
+[20-Oct-2019 19:10:14 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php:35
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/routes/routes.php(148): Hcode\Page->__construct(Array)
+#1 [internal function]: {closure}()
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#8 /home1/in in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php on line 35
+[20-Oct-2019 19:11:15 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 203
+[20-Oct-2019 19:11:26 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function Hcode\Model\typeof() in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php:203
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/routes/routes.php(159): Hcode\Model\User::getForgot('joao.marcos06@h...')
+#1 [internal function]: {closure}()
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middlewar in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 203
+[20-Oct-2019 19:16:40 America/Sao_Paulo] PHP Fatal error:  Constant expression contains invalid operations in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 14
+[20-Oct-2019 19:19:50 America/Sao_Paulo] PHP Fatal error:  Constant expression contains invalid operations in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 13
+[20-Oct-2019 19:19:56 America/Sao_Paulo] PHP Fatal error:  Constant expression contains invalid operations in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 13
+[20-Oct-2019 19:20:07 America/Sao_Paulo] PHP Fatal error:  Constant expression contains invalid operations in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 13
+[20-Oct-2019 19:20:23 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\User' not found in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php:35
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/routes/routes.php(148): Hcode\Page->__construct(Array)
+#1 [internal function]: {closure}()
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#8 /home1/in in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php on line 35
+[20-Oct-2019 19:20:25 America/Sao_Paulo] PHP Fatal error:  Constant expression contains invalid operations in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 13
+[20-Oct-2019 19:35:41 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to private Defuse\Crypto\Key::__construct() from context 'Hcode\Model\User' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php:202
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/routes/routes.php(159): Hcode\Model\User::getForgot('joao.marcos06@h...')
+#1 [internal function]: {closure}()
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Sl in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 202
+[20-Oct-2019 19:35:48 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to private Defuse\Crypto\Key::__construct() from context 'Hcode\Model\User' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php:202
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/routes/routes.php(159): Hcode\Model\User::getForgot('joao.marcos06@h...')
+#1 [internal function]: {closure}()
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Sl in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 202
+[20-Oct-2019 19:41:19 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'createNewRandomKey' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php:200
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/routes/routes.php(159): Hcode\Model\User::getForgot('joao.marcos06@h...')
+#1 [internal function]: {closure}()
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\ in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 200
+[20-Oct-2019 19:41:37 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Defuse\Crypto\Key::createNewRandomKey1() in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php:200
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/routes/routes.php(159): Hcode\Model\User::getForgot('joao.marcos06@h...')
+#1 [internal function]: {closure}()
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(115 in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 200
+[20-Oct-2019 19:41:50 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'KEY' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php:205
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/routes/routes.php(159): Hcode\Model\User::getForgot('joao.marcos06@h...')
+#1 [internal function]: {closure}()
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyException in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 205
+[20-Oct-2019 19:42:53 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$KEY' (T_VARIABLE), expecting ',' or ')' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 204
+[20-Oct-2019 19:43:05 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$key' (T_VARIABLE), expecting ',' or ')' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 204
+[20-Oct-2019 19:43:24 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$key' (T_VARIABLE), expecting ',' or ')' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 204
+[20-Oct-2019 19:44:31 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'KEY' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php:224
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/routes/routes.php(203): Hcode\Model\User::validCodeReset('def502003bddf41...')
+#1 [internal function]: {closure}()
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExce in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 224
+[20-Oct-2019 19:46:20 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$_GET' (T_VARIABLE), expecting ',' or ')' in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 202
+[20-Oct-2019 19:46:40 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Hcode\Model\User::validCodeReset(), 1 passed in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 206 and exactly 2 expected in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php:220
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/routes/routes.php(206): Hcode\Model\User::validCodeReset('def502003bddf41...')
+#1 [internal function]: {closure}()
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.ph in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 220
+[20-Oct-2019 19:53:09 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\KeyLoad' not found in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php:222
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/routes/routes.php(202): Hcode\Model\User::validCodeReset('def50200e450177...', 'def0000063f5d4c...')
+#1 [internal function]: {closure}()
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159 in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 222
+[20-Oct-2019 19:53:12 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\KeyLoad' not found in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php:222
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/routes/routes.php(202): Hcode\Model\User::validCodeReset('def50200e450177...', 'def0000063f5d4c...')
+#1 [internal function]: {closure}()
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159 in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 222
+[20-Oct-2019 20:18:28 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Hcode\Model\User::validCodeReset(), 1 passed in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 217 and exactly 2 expected in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php:220
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/routes/routes.php(217): Hcode\Model\User::validCodeReset('def50200e450177...')
+#1 [internal function]: {closure}()
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.ph in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 220
+[20-Oct-2019 20:18:34 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Hcode\Model\User::validCodeReset(), 1 passed in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 217 and exactly 2 expected in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php:220
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/routes/routes.php(217): Hcode\Model\User::validCodeReset('def50200e450177...')
+#1 [internal function]: {closure}()
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.ph in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 220
+[21-Oct-2019 23:10:36 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '"id"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 536
+[21-Oct-2019 23:12:57 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '"id"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 536
+[21-Oct-2019 23:13:00 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 536
+[24-Oct-2019 00:04:28 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Slim\Slim::create() in /home1/inovar52/public_html/INOVACMS/routes/routes.php:549
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/index.php(23): require_once()
+#1 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 549
+[24-Oct-2019 00:05:23 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Slim\Slim::create() in /home1/inovar52/public_html/INOVACMS/routes/routes.php:549
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/index.php(23): require_once()
+#1 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 549
+[24-Oct-2019 00:05:52 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'UploadHandler' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:553
+Stack trace:
+#0 [internal function]: {closure}('products', '1')
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(25): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 553
+[24-Oct-2019 00:06:05 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'UploadHandler' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:553
+Stack trace:
+#0 [internal function]: {closure}('products', '1')
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(25): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 553
+[24-Oct-2019 00:24:46 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Hcode\File\UploadHandler::__construct(), 0 passed in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 554 and at least 2 expected in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php:49
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/routes/routes.php(554): Hcode\File\UploadHandler->__construct()
+#1 [internal function]: {closure}('products', '1')
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Pretty in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php on line 49
+[24-Oct-2019 00:25:03 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Hcode\File\UploadHandler::__construct(), 0 passed in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 554 and at least 2 expected in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php:49
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/routes/routes.php(554): Hcode\File\UploadHandler->__construct()
+#1 [internal function]: {closure}('products', '1')
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Pretty in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php on line 49
+[24-Oct-2019 00:38:30 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE), expecting ')' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php on line 52
+[24-Oct-2019 00:38:39 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE), expecting ')' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php on line 52
+[24-Oct-2019 01:26:35 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '{' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/File.php on line 20
+[24-Oct-2019 01:31:19 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}' in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 556
+[24-Oct-2019 01:31:19 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}' in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 556
+[25-Oct-2019 01:10:41 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Hcode\File\mysqli' not found in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php:10
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(198): Hcode\File\CustomUploadHandler->initialize()
+#1 /home1/inovar52/public_html/INOVACMS/routes/routes.php(554): Hcode\File\UploadHandler->__construct('products', '1')
+#2 [internal function]: {closure}('products', '1')
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Mi in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php on line 10
+[25-Oct-2019 01:20:13 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Hcode\File\mysqli' not found in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php:10
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(198): Hcode\File\CustomUploadHandler->initialize()
+#1 /home1/inovar52/public_html/INOVACMS/routes/routes.php(554): Hcode\File\UploadHandler->__construct('products', '1')
+#2 [internal function]: {closure}('products', '1')
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Mi in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php on line 10
+[25-Oct-2019 01:24:28 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'PASS' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php:13
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(198): Hcode\File\CustomUploadHandler->initialize()
+#1 /home1/inovar52/public_html/INOVACMS/routes/routes.php(554): Hcode\File\UploadHandler->__construct('products', '1')
+#2 [internal function]: {closure}('products', '1')
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middle in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php on line 13
+[25-Oct-2019 01:40:46 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Cannot pass parameter 3 by reference in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php:38
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(1417): Hcode\File\CustomUploadHandler->handle_file_upload('/tmp/phpbBXc1u', 'jubileu.jpg', 22797, 'image/jpeg', 0, 0, NULL)
+#1 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(219): Hcode\File\UploadHandler->post(true)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php(16): Hcode\File\UploadHandler->initialize()
+#3 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(203): Hcode\File\CustomUploadHandler->initialize()
+#4 /home1/inovar52/public_html/INOVACMS/routes/routes.php(554): Hcode\File\UploadHandler->__construct('products', '1')
+#5 [internal function]: {closure}('products', '1')
+#6 /home1/inovar52/public_html/INOVACMS/v in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php on line 38
+[25-Oct-2019 01:41:48 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Cannot pass parameter 3 by reference in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php:38
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(1417): Hcode\File\CustomUploadHandler->handle_file_upload('/tmp/php7nHxgP', 'jubileu.jpg', 22797, 'image/jpeg', 0, 0, NULL)
+#1 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(219): Hcode\File\UploadHandler->post(true)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php(16): Hcode\File\UploadHandler->initialize()
+#3 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(203): Hcode\File\CustomUploadHandler->initialize()
+#4 /home1/inovar52/public_html/INOVACMS/routes/routes.php(554): Hcode\File\UploadHandler->__construct('products', '1')
+#5 [internal function]: {closure}('products', '1')
+#6 /home1/inovar52/public_html/INOVACMS/v in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php on line 38
+[25-Oct-2019 01:44:11 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ')' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php on line 44
+[25-Oct-2019 01:45:16 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php:35
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(1417): Hcode\File\CustomUploadHandler->handle_file_upload('/tmp/phpuTxprS', 'jubileu.jpg', 22797, 'image/jpeg', 0, 0, NULL)
+#1 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(219): Hcode\File\UploadHandler->post(true)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php(16): Hcode\File\UploadHandler->initialize()
+#3 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(203): Hcode\File\CustomUploadHandler->initialize()
+#4 /home1/inovar52/public_html/INOVACMS/routes/routes.php(554): Hcode\File\UploadHandler->__construct('products', '1')
+#5 [internal function]: {closure}('products', '1')
+#6 /home1/inovar52/public_ht in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php on line 35
+[25-Oct-2019 01:45:55 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php:35
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(1417): Hcode\File\CustomUploadHandler->handle_file_upload('/tmp/phpifNrJd', 'jubileu.jpg', 22797, 'image/jpeg', 0, 0, NULL)
+#1 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(219): Hcode\File\UploadHandler->post(true)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php(16): Hcode\File\UploadHandler->initialize()
+#3 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(203): Hcode\File\CustomUploadHandler->initialize()
+#4 /home1/inovar52/public_html/INOVACMS/routes/routes.php(554): Hcode\File\UploadHandler->__construct('products', '1')
+#5 [internal function]: {closure}('products', '1')
+#6 /home1/inovar52/public_ht in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php on line 35
+[25-Oct-2019 01:46:23 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php:35
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(1417): Hcode\File\CustomUploadHandler->handle_file_upload('/tmp/phpjpvjsX', 'jubileu.jpg', 22797, 'image/jpeg', 0, 0, NULL)
+#1 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(219): Hcode\File\UploadHandler->post(true)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php(16): Hcode\File\UploadHandler->initialize()
+#3 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(203): Hcode\File\CustomUploadHandler->initialize()
+#4 /home1/inovar52/public_html/INOVACMS/routes/routes.php(554): Hcode\File\UploadHandler->__construct('products', '1')
+#5 [internal function]: {closure}('products', '1')
+#6 /home1/inovar52/public_ht in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php on line 35
+[25-Oct-2019 02:15:02 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php:36
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(1417): Hcode\File\CustomUploadHandler->handle_file_upload('/tmp/phpKOMVOf', 'jubileu.jpg', 22797, 'image/jpeg', 0, 0, NULL)
+#1 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(219): Hcode\File\UploadHandler->post(true)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php(16): Hcode\File\UploadHandler->initialize()
+#3 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(203): Hcode\File\CustomUploadHandler->initialize()
+#4 /home1/inovar52/public_html/INOVACMS/routes/routes.php(557): Hcode\File\UploadHandler->__construct('products', '1')
+#5 [internal function]: {closure}('products', '1')
+#6 /home1/inovar52/public_ht in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php on line 36
+[26-Oct-2019 17:06:46 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php:36
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(1417): Hcode\File\CustomUploadHandler->handle_file_upload('/tmp/phpSlEQI5', 'jubileu.jpg', 22797, 'image/jpeg', 0, 0, NULL)
+#1 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(219): Hcode\File\UploadHandler->post(true)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php(16): Hcode\File\UploadHandler->initialize()
+#3 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(203): Hcode\File\CustomUploadHandler->initialize()
+#4 /home1/inovar52/public_html/INOVACMS/routes/routes.php(557): Hcode\File\UploadHandler->__construct('products', '1')
+#5 [internal function]: {closure}('products', '1')
+#6 /home1/inovar52/public_ht in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php on line 36
+[26-Oct-2019 17:07:09 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php:36
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(1417): Hcode\File\CustomUploadHandler->handle_file_upload('/tmp/phpxfoHgJ', 'jubileu.jpg', 22797, 'image/jpeg', 0, 0, NULL)
+#1 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(219): Hcode\File\UploadHandler->post(true)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php(16): Hcode\File\UploadHandler->initialize()
+#3 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(203): Hcode\File\CustomUploadHandler->initialize()
+#4 /home1/inovar52/public_html/INOVACMS/routes/routes.php(557): Hcode\File\UploadHandler->__construct('products', '1')
+#5 [internal function]: {closure}('products', '1')
+#6 /home1/inovar52/public_ht in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php on line 36
+[26-Oct-2019 17:48:50 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php:36
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(1417): Hcode\File\CustomUploadHandler->handle_file_upload('/tmp/phpsL0lTB', 'jubileu.jpg', 22797, 'image/jpeg', 0, 0, NULL)
+#1 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(219): Hcode\File\UploadHandler->post(true)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php(16): Hcode\File\UploadHandler->initialize()
+#3 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(203): Hcode\File\CustomUploadHandler->initialize()
+#4 /home1/inovar52/public_html/INOVACMS/routes/routes.php(557): Hcode\File\UploadHandler->__construct('products', '1')
+#5 [internal function]: {closure}('products', '1')
+#6 /home1/inovar52/public_ht in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php on line 36
+[26-Oct-2019 17:49:29 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php:36
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(1417): Hcode\File\CustomUploadHandler->handle_file_upload('/tmp/phpiJFq54', 'jubileu.jpg', 22797, 'image/jpeg', 0, 0, NULL)
+#1 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(219): Hcode\File\UploadHandler->post(true)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php(16): Hcode\File\UploadHandler->initialize()
+#3 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(203): Hcode\File\CustomUploadHandler->initialize()
+#4 /home1/inovar52/public_html/INOVACMS/routes/routes.php(557): Hcode\File\UploadHandler->__construct('products', '1')
+#5 [internal function]: {closure}('products', '1')
+#6 /home1/inovar52/public_ht in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php on line 36
+[26-Oct-2019 17:50:24 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php:36
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(1417): Hcode\File\CustomUploadHandler->handle_file_upload('/tmp/phpiojJs9', 'jubileu.jpg', 22797, 'image/jpeg', 0, 0, NULL)
+#1 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(219): Hcode\File\UploadHandler->post(true)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php(16): Hcode\File\UploadHandler->initialize()
+#3 /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/UploadHandler.php(203): Hcode\File\CustomUploadHandler->initialize()
+#4 /home1/inovar52/public_html/INOVACMS/routes/routes.php(557): Hcode\File\UploadHandler->__construct('products', '1')
+#5 [internal function]: {closure}('products', '1')
+#6 /home1/inovar52/public_ht in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/File/CustomUploadHandler.php on line 36
+[28-Oct-2019 23:12:04 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 35
+[28-Oct-2019 23:19:13 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 51
+[28-Oct-2019 23:20:24 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 51
+[28-Oct-2019 23:20:26 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 49
+[28-Oct-2019 23:20:52 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 49
+[28-Oct-2019 23:20:54 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/User.php on line 49
+[29-Oct-2019 00:44:36 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}' in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 347
+[29-Oct-2019 00:44:45 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function get() in /home1/inovar52/public_html/INOVACMS/routes/routes.php:335
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/index.php(23): require_once()
+#1 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 335
+[29-Oct-2019 00:44:49 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function get() in /home1/inovar52/public_html/INOVACMS/routes/routes.php:335
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/index.php(23): require_once()
+#1 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 335
+[29-Oct-2019 00:51:28 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}' in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 357
+[29-Oct-2019 00:53:43 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE) in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 376
+[29-Oct-2019 01:02:55 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 399
+[29-Oct-2019 01:03:11 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 399
+[29-Oct-2019 01:03:13 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 399
+[29-Oct-2019 01:03:15 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 399
+[29-Oct-2019 10:13:11 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/inovar52/public_html/INOVACMS/views-cache/portfolio/portfolio-update.91831955f05695cbc4312926df9120cc.rtpl.php on line 34
+[29-Oct-2019 10:14:49 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/inovar52/public_html/INOVACMS/views-cache/portfolio/portfolio-update.91831955f05695cbc4312926df9120cc.rtpl.php on line 34
+[29-Oct-2019 10:19:32 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/inovar52/public_html/INOVACMS/views-cache/portfolio/portfolio-update.91831955f05695cbc4312926df9120cc.rtpl.php on line 34
+[29-Oct-2019 10:21:27 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/inovar52/public_html/INOVACMS/views-cache/portfolio/portfolio-update.91831955f05695cbc4312926df9120cc.rtpl.php on line 34
+[29-Oct-2019 12:27:54 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/inovar52/public_html/INOVACMS/views-cache/portfolio/portfolio-update.91831955f05695cbc4312926df9120cc.rtpl.php on line 34
+[29-Oct-2019 12:28:57 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/inovar52/public_html/INOVACMS/views-cache/portfolio/portfolio-update.91831955f05695cbc4312926df9120cc.rtpl.php on line 34
+[29-Oct-2019 12:32:39 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/inovar52/public_html/INOVACMS/views-cache/portfolio/portfolio-update.91831955f05695cbc4312926df9120cc.rtpl.php on line 34
+[29-Oct-2019 12:33:42 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/inovar52/public_html/INOVACMS/views-cache/portfolio/portfolio-update.91831955f05695cbc4312926df9120cc.rtpl.php on line 34
+[29-Oct-2019 12:34:00 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/inovar52/public_html/INOVACMS/views-cache/portfolio/portfolio-update.91831955f05695cbc4312926df9120cc.rtpl.php on line 34
+[29-Oct-2019 23:26:02 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/File.php on line 93
+[30-Oct-2019 01:02:27 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/Menu.php on line 6
+[30-Oct-2019 23:30:08 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Class 'Hcode\Model\Menu' not found in /home1/inovar52/public_html/INOVACMS/routes/routes.php:797
+Stack trace:
+#0 [internal function]: {closure}('1')
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(25): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 797
+[31-Oct-2019 00:20:49 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/Menu.php on line 52
+[31-Oct-2019 00:39:20 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ':', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/Menu.php on line 50
+[31-Oct-2019 00:40:17 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'values' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/Menu.php:50
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/routes/routes.php(804): Hcode\Model\Menu->update()
+#1 [internal function]: {closure}('1')
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#8 /home in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/Menu.php on line 50
+[31-Oct-2019 00:40:24 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Undefined class constant 'values' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/Menu.php:50
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/routes/routes.php(804): Hcode\Model\Menu->update()
+#1 [internal function]: {closure}('1')
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#8 /home in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/Menu.php on line 50
+[31-Oct-2019 00:40:45 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Cannot use object of type Hcode\Model\Menu as array in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/Menu.php:50
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/routes/routes.php(804): Hcode\Model\Menu->update()
+#1 [internal function]: {closure}('1')
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyException in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/Menu.php on line 50
+[31-Oct-2019 00:40:48 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Cannot use object of type Hcode\Model\Menu as array in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/Menu.php:50
+Stack trace:
+#0 /home1/inovar52/public_html/INOVACMS/routes/routes.php(804): Hcode\Model\Menu->update()
+#1 [internal function]: {closure}('1')
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#7 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyException in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/Menu.php on line 50
+[01-Nov-2019 00:07:23 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Model/Menu.php on line 25
+[01-Nov-2019 12:55:23 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Hcode\Model\User::verfiyLogin() in /home1/inovar52/public_html/INOVACMS/routes/routes.php:776
+Stack trace:
+#0 [internal function]: {closure}('2')
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(25): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 776
+[01-Nov-2019 12:55:57 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Hcode\Model\User::verfiyLogin() in /home1/inovar52/public_html/INOVACMS/routes/routes.php:776
+Stack trace:
+#0 [internal function]: {closure}('2')
+#1 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Router.php(200): call_user_func_array(Object(Closure), Array)
+#2 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1210): Slim\Router->dispatch(Object(Slim\Route))
+#3 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/Flash.php(86): Slim\Slim->call()
+#4 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/MethodOverride.php(94): Slim\Middleware\Flash->call()
+#5 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#6 /home1/inovar52/public_html/INOVACMS/vendor/slim/slim/Slim/Slim.php(1159): Slim\Middleware\PrettyExceptions->call()
+#7 /home1/inovar52/public_html/INOVACMS/index.php(25): Slim\Slim->run()
+#8 {main}
+  thrown in /home1/inovar52/public_html/INOVACMS/routes/routes.php on line 776
+[01-Nov-2019 13:07:09 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/inovar52/public_html/INOVACMS/views-cache/users/users-update.91831955f05695cbc4312926df9120cc.rtpl.php on line 53
+[01-Nov-2019 20:34:00 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php on line 38
+[01-Nov-2019 20:35:20 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php on line 38
+[01-Nov-2019 20:35:23 America/Sao_Paulo] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php on line 3
+[01-Nov-2019 20:39:30 America/Sao_Paulo] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php on line 3
+[01-Nov-2019 20:39:32 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '>' in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php on line 39
+[01-Nov-2019 20:39:48 America/Sao_Paulo] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php on line 3
+[01-Nov-2019 20:40:07 America/Sao_Paulo] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php on line 3
+[01-Nov-2019 20:40:48 America/Sao_Paulo] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php on line 3
+[01-Nov-2019 20:42:44 America/Sao_Paulo] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php on line 3
+[01-Nov-2019 20:42:46 America/Sao_Paulo] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php on line 3
+[01-Nov-2019 20:45:17 America/Sao_Paulo] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php on line 3
+[01-Nov-2019 20:45:19 America/Sao_Paulo] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php on line 3
+[01-Nov-2019 20:45:21 America/Sao_Paulo] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php on line 3
+[01-Nov-2019 20:45:37 America/Sao_Paulo] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php on line 3
+[01-Nov-2019 20:45:40 America/Sao_Paulo] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php on line 3
+[01-Nov-2019 20:46:13 America/Sao_Paulo] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php on line 3
+[01-Nov-2019 20:46:14 America/Sao_Paulo] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php on line 3
+[01-Nov-2019 20:46:17 America/Sao_Paulo] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home1/inovar52/public_html/INOVACMS/vendor/hcodebr/php-classes/src/Page.php on line 3
+[01-Nov-2019 20:55:48 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home1/inovar52/public_html/INOVACMS/views-cache/header.b0b39791230fe6059fcd743bc471540f.rtpl.php on line 287
